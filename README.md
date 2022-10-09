@@ -8,10 +8,10 @@ Matkul : Text Mining
 
 #-------------------------------------------------------------------------------------------
 
-Melakukan scrapping data VGA RX6600 menggunakan SerpAPI. Dalam tugas tersebut terdapat beberapa Preprocessing, yaitu :
+Melakukan scrapping data Review Restoran McDonald menggunakan SerpAPI. Dalam tugas tersebut terdapat beberapa Preprocessing, yaitu :
 
 Case folding
 Tokenizing
 Stopword removal
 Stemming
-![Screenshot (92)](https://user-images.githubusercontent.com/104274288/194742329-1bb9faca-51b5-468b-929f-d88dbaa8fe86.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/104274288/194743235-db96e2dd-112a-4e04-8748-2dd9080c8565.png)
